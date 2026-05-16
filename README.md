@@ -12,6 +12,7 @@ Hermes（Python）和 OpenClaw（TypeScript/Node.js）是两个自托管 AI Agen
 01-核心架构/     核心模块的设计解析
 02-最小实现/     可以直接运行的最小 Agent + Gateway
 03-设计对比/     Hermes vs OpenClaw 设计哲学对比
+04-Hermes核心设计问答.md  ← 新增：16个问题驱动理解 Hermes 为什么这样设计
 ```
 
 ## 适合谁
